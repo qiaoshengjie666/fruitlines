@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "click_hn_2",
+    "texture": "aee31537-b710-47a7-a2ed-1c203e09d7a1",
+    "atlas": "",
+    "rect": [
+      0,
+      8,
+      28,
+      38
+    ],
+    "offset": [
+      0,
+      -4
+    ],
+    "originalSize": [
+      28,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "game",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "word": 1,
+    "winNextLevel": 1,
+    "winAgain": 1,
+    "LevelDialogContinue": 1,
+    "PauseDialogRestart": 1
+  }
+}

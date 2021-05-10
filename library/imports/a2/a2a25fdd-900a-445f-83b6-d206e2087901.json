@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "competition_win_bg",
+    "texture": "5aa3f626-1f4f-4fe5-bb40-6b9f1611a9c5",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      408,
+      143
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      410,
+      143
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

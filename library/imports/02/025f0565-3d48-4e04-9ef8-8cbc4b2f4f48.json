@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "lucky",
+  "_objFlags": 0,
+  "_native": "",
+  "json": [
+    {
+      "area_id": "801",
+      "gold_reward": "50",
+      "chance": "40.00%"
+    },
+    {
+      "area_id": "802",
+      "gold_reward": "300",
+      "chance": "1.50%"
+    },
+    {
+      "area_id": "805",
+      "gold_reward": "随机皮肤",
+      "chance": "0.50%"
+    },
+    {
+      "area_id": "803",
+      "gold_reward": "30",
+      "chance": "50.00%"
+    },
+    {
+      "area_id": "804",
+      "gold_reward": "180",
+      "chance": "3.00%"
+    },
+    {
+      "area_id": "806",
+      "gold_reward": "100",
+      "chance": "5.00%"
+    }
+  ]
+}

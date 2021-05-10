@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xyjl_count",
+    "texture": "e8f4f0c0-baee-439b-808a-d4fb804d459a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      710,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      710,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

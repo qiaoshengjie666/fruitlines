@@ -1,0 +1,582 @@
+{
+  "projectPath": "D:\\project\\project\\fruitlines",
+  "actualPlatform": "bytedance",
+  "mtimes": {
+    "515e0e2c-6741-4722-9ec1-8664699d532a": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617707826626
+    },
+    "021c4c09-31a9-470e-a969-15104eb79ecf": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617853857446
+    },
+    "1c47cb46-c023-4f69-a92a-733d2931bbd5": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617853857446
+    },
+    "071103f2-7c7a-4901-a7f1-56ba39a878ac": {
+      "assetMtime": 1612696056046,
+      "metaMtime": 1617960084702
+    },
+    "42374b78-4253-41bd-886a-eceeb8dcbf32": {
+      "assetMtime": 1612696056046,
+      "metaMtime": 1617960084702
+    },
+    "43b780c0-4b93-4d1c-985a-cfd95ec5a557": {
+      "assetMtime": 1617847425837,
+      "metaMtime": 1617851977014
+    },
+    "3f4db8d3-63f5-4414-a012-445b4edd5f56": {
+      "assetMtime": 1617847425837,
+      "metaMtime": 1617851977014
+    },
+    "500fb4bc-7a18-44f4-a3e6-5a5b5b361358": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617853857464
+    },
+    "c3812a0c-5542-4057-a1f7-87dfd78d8c16": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617853857464
+    },
+    "665506a4-c742-4c70-8264-672630e025e2": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617707826626
+    },
+    "b6e9f73c-ff8c-4124-9ea0-a555fcb2e851": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617707826626
+    },
+    "7395dc6f-fadb-4a49-bf53-91cb7525fe93": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617853857445
+    },
+    "1e40063c-9af2-49a7-8ba4-8044fecf2677": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617853857445
+    },
+    "77e93411-a650-472c-8d48-9135ca1fa129": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617707826751
+    },
+    "3a8264c8-ab0f-440e-bbc7-61d696e8a533": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617707826751
+    },
+    "7865eb53-236e-48cf-a6f3-e4dccd6b04da": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617707826705
+    },
+    "c6774266-94e2-4f95-a30c-f454fada022a": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617707826705
+    },
+    "7d18bb3d-9373-440f-92c2-bbbf27477a66": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617707826751
+    },
+    "e3346f0c-00e1-40b1-b533-a4bc1726cad2": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617707826751
+    },
+    "80ff5e33-19e2-4f90-89b8-890ce494c6c8": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617707826642
+    },
+    "8701b4ae-3af7-401c-b60d-8c3aaf123f4d": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617707826642
+    },
+    "83f8300a-625b-4671-8bda-22efa5f6d90a": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617707826751
+    },
+    "6d74f6d7-5426-4691-abed-57197429590d": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617707826751
+    },
+    "8ee77b6a-b61e-4198-a883-dad32febeb8f": {
+      "assetMtime": 1618853720000,
+      "metaMtime": 1618970695706
+    },
+    "701add58-8954-4142-b8e5-b0a18ce78a39": {
+      "assetMtime": 1618853720000,
+      "metaMtime": 1618970695706
+    },
+    "c4a3d8e2-aea5-4494-8603-dd4d455873c7": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617707826735
+    },
+    "51cb7b40-09ff-4dae-8cdc-be797423c27a": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617707826735
+    },
+    "dfe026f0-e79d-4750-b982-cea673c49b6a": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617853857455
+    },
+    "7fc5e2d0-f21e-4301-912f-62fc809e1d99": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617853857455
+    },
+    "eca5fd2d-2989-4a48-b633-a1075a2cf204": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617853857478
+    },
+    "51aae419-9c31-490f-9f9f-177c6babceb3": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617853857478
+    },
+    "ecf5edec-45e5-4700-ad00-4e5cac76a458": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617853857473
+    },
+    "64f85ae5-a66b-4331-bcf6-f44657a89d1e": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617853857473
+    },
+    "f7c68c52-1afa-4720-ae91-6160734bbc76": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617707826735
+    },
+    "6a6bbea5-2670-4423-822b-c543aacb4385": {
+      "assetMtime": 1578902582000,
+      "metaMtime": 1617707826735
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 2048,
+    "height": 1024,
+    "ver": "1.2.1",
+    "uuid": "515e0e2c-6741-4722-9ec1-8664699d532a",
+    "maxWidth": 2048,
+    "maxHeight": 1024,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "jiesuan_tex",
+            "uuid": "43b780c0-4b93-4d1c-985a-cfd95ec5a557",
+            "textureUuid": "3f4db8d3-63f5-4414-a012-445b4edd5f56",
+            "path": "D:\\project\\project\\fruitlines\\temp\\trimImages\\spritesheet_js_1619764130231_image_2.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 964,
+              "height": 570,
+              "rotatedWidth": 964,
+              "rotatedHeight": 570
+            },
+            "rawWidth": 980,
+            "rawHeight": 572,
+            "width": 970,
+            "height": 576,
+            "originalPath": "D:/project/project/fruitlines/library/imports/3f/3f4db8d3-63f5-4414-a012-445b4edd5f56.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 970,
+            "rotatedHeight": 576
+          },
+          {
+            "name": "light",
+            "uuid": "f7c68c52-1afa-4720-ae91-6160734bbc76",
+            "textureUuid": "6a6bbea5-2670-4423-822b-c543aacb4385",
+            "path": "D:\\project\\project\\fruitlines\\temp\\trimImages\\spritesheet_js_1619764130233_image_16.png",
+            "trim": {
+              "x": 3,
+              "y": 579,
+              "width": 322,
+              "height": 322,
+              "rotatedWidth": 322,
+              "rotatedHeight": 322
+            },
+            "rawWidth": 322,
+            "rawHeight": 322,
+            "width": 328,
+            "height": 328,
+            "originalPath": "D:/project/project/fruitlines/library/imports/6a/6a6bbea5-2670-4423-822b-c543aacb4385.png",
+            "x": 0,
+            "y": 576,
+            "rotatedWidth": 328,
+            "rotatedHeight": 328
+          },
+          {
+            "name": "btn2",
+            "uuid": "dfe026f0-e79d-4750-b982-cea673c49b6a",
+            "textureUuid": "7fc5e2d0-f21e-4301-912f-62fc809e1d99",
+            "path": "D:\\project\\project\\fruitlines\\temp\\trimImages\\spritesheet_js_1619764130233_image_13.png",
+            "trim": {
+              "x": 3,
+              "y": 907,
+              "width": 198,
+              "height": 67,
+              "rotatedWidth": 198,
+              "rotatedHeight": 67
+            },
+            "rawWidth": 198,
+            "rawHeight": 67,
+            "width": 204,
+            "height": 73,
+            "originalPath": "D:/project/project/fruitlines/library/imports/7f/7fc5e2d0-f21e-4301-912f-62fc809e1d99.png",
+            "x": 0,
+            "y": 904,
+            "rotatedWidth": 204,
+            "rotatedHeight": 73
+          },
+          {
+            "name": "radius_rect",
+            "uuid": "c4a3d8e2-aea5-4494-8603-dd4d455873c7",
+            "textureUuid": "51cb7b40-09ff-4dae-8cdc-be797423c27a",
+            "path": "D:\\project\\project\\fruitlines\\temp\\trimImages\\spritesheet_js_1619764130233_image_12.png",
+            "trim": {
+              "x": 207,
+              "y": 907,
+              "width": 64,
+              "height": 64,
+              "rotatedWidth": 64,
+              "rotatedHeight": 64
+            },
+            "rawWidth": 64,
+            "rawHeight": 64,
+            "width": 70,
+            "height": 70,
+            "originalPath": "D:/project/project/fruitlines/library/imports/51/51cb7b40-09ff-4dae-8cdc-be797423c27a.png",
+            "x": 204,
+            "y": 904,
+            "rotatedWidth": 70,
+            "rotatedHeight": 70
+          },
+          {
+            "name": "yes",
+            "uuid": "77e93411-a650-472c-8d48-9135ca1fa129",
+            "textureUuid": "3a8264c8-ab0f-440e-bbc7-61d696e8a533",
+            "path": "D:\\project\\project\\fruitlines\\temp\\trimImages\\spritesheet_js_1619764130232_image_6.png",
+            "trim": {
+              "x": 277,
+              "y": 907,
+              "width": 64,
+              "height": 55,
+              "rotatedWidth": 55,
+              "rotatedHeight": 64
+            },
+            "rawWidth": 64,
+            "rawHeight": 55,
+            "width": 70,
+            "height": 61,
+            "originalPath": "D:/project/project/fruitlines/library/imports/3a/3a8264c8-ab0f-440e-bbc7-61d696e8a533.png",
+            "x": 274,
+            "y": 904,
+            "rotated": true,
+            "rotatedWidth": 61,
+            "rotatedHeight": 70
+          },
+          {
+            "name": "qqlogo",
+            "uuid": "8ee77b6a-b61e-4198-a883-dad32febeb8f",
+            "textureUuid": "701add58-8954-4142-b8e5-b0a18ce78a39",
+            "path": "D:\\project\\project\\fruitlines\\temp\\trimImages\\spritesheet_js_1619764130232_image_11.png",
+            "trim": {
+              "x": 331,
+              "y": 579,
+              "width": 461,
+              "height": 268,
+              "rotatedWidth": 461,
+              "rotatedHeight": 268
+            },
+            "rawWidth": 467,
+            "rawHeight": 272,
+            "width": 467,
+            "height": 274,
+            "originalPath": "D:/project/project/fruitlines/library/imports/70/701add58-8954-4142-b8e5-b0a18ce78a39.png",
+            "x": 328,
+            "y": 576,
+            "rotatedWidth": 467,
+            "rotatedHeight": 274
+          },
+          {
+            "name": "diamond2",
+            "uuid": "500fb4bc-7a18-44f4-a3e6-5a5b5b361358",
+            "textureUuid": "c3812a0c-5542-4057-a1f7-87dfd78d8c16",
+            "path": "D:\\project\\project\\fruitlines\\temp\\trimImages\\spritesheet_js_1619764130232_image_3.png",
+            "trim": {
+              "x": 338,
+              "y": 853,
+              "width": 132,
+              "height": 102,
+              "rotatedWidth": 102,
+              "rotatedHeight": 132
+            },
+            "rawWidth": 132,
+            "rawHeight": 102,
+            "width": 138,
+            "height": 108,
+            "originalPath": "D:/project/project/fruitlines/library/imports/c3/c3812a0c-5542-4057-a1f7-87dfd78d8c16.png",
+            "x": 335,
+            "y": 850,
+            "rotated": true,
+            "rotatedWidth": 108,
+            "rotatedHeight": 138
+          },
+          {
+            "name": "banner",
+            "uuid": "7395dc6f-fadb-4a49-bf53-91cb7525fe93",
+            "textureUuid": "1e40063c-9af2-49a7-8ba4-8044fecf2677",
+            "path": "D:\\project\\project\\fruitlines\\temp\\trimImages\\spritesheet_js_1619764130232_image_5.png",
+            "trim": {
+              "x": 446,
+              "y": 853,
+              "width": 453,
+              "height": 108,
+              "rotatedWidth": 453,
+              "rotatedHeight": 108
+            },
+            "rawWidth": 453,
+            "rawHeight": 108,
+            "width": 459,
+            "height": 114,
+            "originalPath": "D:/project/project/fruitlines/library/imports/1e/1e40063c-9af2-49a7-8ba4-8044fecf2677.png",
+            "x": 443,
+            "y": 850,
+            "rotatedWidth": 459,
+            "rotatedHeight": 114
+          },
+          {
+            "name": "icon_upgrades",
+            "uuid": "ecf5edec-45e5-4700-ad00-4e5cac76a458",
+            "textureUuid": "64f85ae5-a66b-4331-bcf6-f44657a89d1e",
+            "path": "D:\\project\\project\\fruitlines\\temp\\trimImages\\spritesheet_js_1619764130233_image_15.png",
+            "trim": {
+              "x": 905,
+              "y": 579,
+              "width": 50,
+              "height": 60,
+              "rotatedWidth": 60,
+              "rotatedHeight": 50
+            },
+            "rawWidth": 50,
+            "rawHeight": 60,
+            "width": 56,
+            "height": 66,
+            "originalPath": "D:/project/project/fruitlines/library/imports/64/64f85ae5-a66b-4331-bcf6-f44657a89d1e.png",
+            "x": 902,
+            "y": 576,
+            "rotated": true,
+            "rotatedWidth": 66,
+            "rotatedHeight": 56
+          },
+          {
+            "name": "frame3",
+            "uuid": "7865eb53-236e-48cf-a6f3-e4dccd6b04da",
+            "textureUuid": "c6774266-94e2-4f95-a30c-f454fada022a",
+            "path": "D:\\project\\project\\fruitlines\\temp\\trimImages\\spritesheet_js_1619764130232_image_7.png",
+            "trim": {
+              "x": 798,
+              "y": 579,
+              "width": 100,
+              "height": 100,
+              "rotatedWidth": 100,
+              "rotatedHeight": 100
+            },
+            "rawWidth": 100,
+            "rawHeight": 100,
+            "width": 106,
+            "height": 106,
+            "originalPath": "D:/project/project/fruitlines/library/imports/c6/c6774266-94e2-4f95-a30c-f454fada022a.png",
+            "x": 795,
+            "y": 576,
+            "rotatedWidth": 106,
+            "rotatedHeight": 106
+          },
+          {
+            "name": "js_ksp",
+            "uuid": "071103f2-7c7a-4901-a7f1-56ba39a878ac",
+            "textureUuid": "42374b78-4253-41bd-886a-eceeb8dcbf32",
+            "path": "D:\\project\\project\\fruitlines\\temp\\trimImages\\spritesheet_js_1619764130231_image_1.png",
+            "trim": {
+              "x": 905,
+              "y": 635,
+              "width": 59,
+              "height": 44,
+              "rotatedWidth": 59,
+              "rotatedHeight": 44
+            },
+            "rawWidth": 60,
+            "rawHeight": 45,
+            "width": 65,
+            "height": 50,
+            "originalPath": "D:/project/project/fruitlines/library/imports/42/42374b78-4253-41bd-886a-eceeb8dcbf32.png",
+            "x": 902,
+            "y": 632,
+            "rotatedWidth": 65,
+            "rotatedHeight": 50
+          },
+          {
+            "name": "android_leaderboards",
+            "uuid": "021c4c09-31a9-470e-a969-15104eb79ecf",
+            "textureUuid": "1c47cb46-c023-4f69-a92a-733d2931bbd5",
+            "path": "D:\\project\\project\\fruitlines\\temp\\trimImages\\spritesheet_js_1619764130231_image_0.png",
+            "trim": {
+              "x": 905,
+              "y": 685,
+              "width": 57,
+              "height": 47,
+              "rotatedWidth": 57,
+              "rotatedHeight": 47
+            },
+            "rawWidth": 57,
+            "rawHeight": 47,
+            "width": 63,
+            "height": 53,
+            "originalPath": "D:/project/project/fruitlines/library/imports/1c/1c47cb46-c023-4f69-a92a-733d2931bbd5.png",
+            "x": 902,
+            "y": 682,
+            "rotatedWidth": 63,
+            "rotatedHeight": 53
+          },
+          {
+            "name": "btn_sound-sheet0",
+            "uuid": "80ff5e33-19e2-4f90-89b8-890ce494c6c8",
+            "textureUuid": "8701b4ae-3af7-401c-b60d-8c3aaf123f4d",
+            "path": "D:\\project\\project\\fruitlines\\temp\\trimImages\\spritesheet_js_1619764130232_image_9.png",
+            "trim": {
+              "x": 798,
+              "y": 738,
+              "width": 88,
+              "height": 108,
+              "rotatedWidth": 88,
+              "rotatedHeight": 108
+            },
+            "rawWidth": 88,
+            "rawHeight": 108,
+            "width": 94,
+            "height": 114,
+            "originalPath": "D:/project/project/fruitlines/library/imports/87/8701b4ae-3af7-401c-b60d-8c3aaf123f4d.png",
+            "x": 795,
+            "y": 735,
+            "rotatedWidth": 94,
+            "rotatedHeight": 114
+          },
+          {
+            "name": "303",
+            "uuid": "665506a4-c742-4c70-8264-672630e025e2",
+            "textureUuid": "b6e9f73c-ff8c-4124-9ea0-a555fcb2e851",
+            "path": "D:\\project\\project\\fruitlines\\temp\\trimImages\\spritesheet_js_1619764130232_image_4.png",
+            "trim": {
+              "x": 798,
+              "y": 685,
+              "width": 37,
+              "height": 43,
+              "rotatedWidth": 37,
+              "rotatedHeight": 43
+            },
+            "rawWidth": 37,
+            "rawHeight": 43,
+            "width": 43,
+            "height": 49,
+            "originalPath": "D:/project/project/fruitlines/library/imports/b6/b6e9f73c-ff8c-4124-9ea0-a555fcb2e851.png",
+            "x": 795,
+            "y": 682,
+            "rotatedWidth": 43,
+            "rotatedHeight": 49
+          },
+          {
+            "name": "sx",
+            "uuid": "7d18bb3d-9373-440f-92c2-bbbf27477a66",
+            "textureUuid": "e3346f0c-00e1-40b1-b533-a4bc1726cad2",
+            "path": "D:\\project\\project\\fruitlines\\temp\\trimImages\\spritesheet_js_1619764130232_image_8.png",
+            "trim": {
+              "x": 841,
+              "y": 685,
+              "width": 36,
+              "height": 38,
+              "rotatedWidth": 36,
+              "rotatedHeight": 38
+            },
+            "rawWidth": 36,
+            "rawHeight": 38,
+            "width": 42,
+            "height": 44,
+            "originalPath": "D:/project/project/fruitlines/library/imports/e3/e3346f0c-00e1-40b1-b533-a4bc1726cad2.png",
+            "x": 838,
+            "y": 682,
+            "rotatedWidth": 42,
+            "rotatedHeight": 44
+          },
+          {
+            "name": "mt4",
+            "uuid": "eca5fd2d-2989-4a48-b633-a1075a2cf204",
+            "textureUuid": "51aae419-9c31-490f-9f9f-177c6babceb3",
+            "path": "D:\\project\\project\\fruitlines\\temp\\trimImages\\spritesheet_js_1619764130233_image_14.png",
+            "trim": {
+              "x": 905,
+              "y": 738,
+              "width": 32,
+              "height": 23,
+              "rotatedWidth": 32,
+              "rotatedHeight": 23
+            },
+            "rawWidth": 32,
+            "rawHeight": 23,
+            "width": 38,
+            "height": 29,
+            "originalPath": "D:/project/project/fruitlines/library/imports/51/51aae419-9c31-490f-9f9f-177c6babceb3.png",
+            "x": 902,
+            "y": 735,
+            "rotatedWidth": 38,
+            "rotatedHeight": 29
+          },
+          {
+            "name": "reddot2",
+            "uuid": "83f8300a-625b-4671-8bda-22efa5f6d90a",
+            "textureUuid": "6d74f6d7-5426-4691-abed-57197429590d",
+            "path": "D:\\project\\project\\fruitlines\\temp\\trimImages\\spritesheet_js_1619764130232_image_10.png",
+            "trim": {
+              "x": 943,
+              "y": 738,
+              "width": 25,
+              "height": 24,
+              "rotatedWidth": 25,
+              "rotatedHeight": 24
+            },
+            "rawWidth": 36,
+            "rawHeight": 36,
+            "width": 31,
+            "height": 30,
+            "originalPath": "D:/project/project/fruitlines/library/imports/6d/6d74f6d7-5426-4691-abed-57197429590d.png",
+            "x": 940,
+            "y": 735,
+            "rotatedWidth": 31,
+            "rotatedHeight": 30
+          }
+        ],
+        "width": 971,
+        "height": 988,
+        "name": "AutoAtlas-1",
+        "imagePath": "D:\\project\\project\\fruitlines\\temp\\TexturePacker\\build\\native\\assets\\Game\\Textures\\AutoAtlas.pac\\AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "D:\\project\\project\\fruitlines\\temp\\TexturePacker\\build\\native\\assets\\Game\\Textures\\AutoAtlas.pac\\compressed\\AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

@@ -1,0 +1,8 @@
+[
+    {"id":"2","mini_img":"2","img":"2","cost":"1000","text":"鸟语花香","ps":"fall_follower"},
+    {"id":"4","mini_img":"4","img":"4","cost":"800", "text":"瑞雪飞舞","ps":"fall_snow"},
+    {"id":"6","mini_img":"6","img":"6","cost":"500", "text":"幽径通曲","ps":"fall_leaf"},
+    {"id":"5","mini_img":"5","img":"5","cost":"500", "text":"简单蓝调","ps":"stars"},
+    {"id":"1","mini_img":"1","img":"1","cost":"1000", "text":"璀璨星空","ps":"stars2"},
+    {"id":"3","mini_img":"3","img":"3","cost":"2000", "text":"引领未来","ps":"fx"}
+]

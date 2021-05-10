@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "screenCap",
+    "texture": "b98e699c-0b47-41a6-835d-c8f18110feea",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

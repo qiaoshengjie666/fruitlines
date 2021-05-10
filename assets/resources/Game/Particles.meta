@@ -1,0 +1,20 @@
+{
+  "ver": "1.1.2",
+  "uuid": "da18cb6b-06ad-4863-ab81-b6139d372b4b",
+  "isBundle": false,
+  "bundleName": "",
+  "priority": 1,
+  "compressionType": {
+    "baidugame": "default"
+  },
+  "optimizeHotUpdate": {
+    "baidugame": false
+  },
+  "inlineSpriteFrames": {
+    "baidugame": true
+  },
+  "isRemoteBundle": {
+    "baidugame": true
+  },
+  "subMetas": {}
+}

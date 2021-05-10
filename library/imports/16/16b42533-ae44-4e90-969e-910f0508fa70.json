@@ -1,0 +1,14 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "jiesuan_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_atlasJson": "{\"imagePath\":\"jiesuan_tex.png\",\"width\":980,\"height\":572,\"name\":\"jiesuan\",\"SubTexture\":[{\"width\":576,\"y\":1,\"height\":570,\"name\":\"6\",\"x\":1},{\"width\":21,\"y\":532,\"height\":21,\"name\":\"3\",\"x\":606},{\"frameWidth\":29,\"y\":503,\"frameHeight\":28,\"width\":28,\"frameX\":0,\"height\":28,\"name\":\"4\",\"frameY\":0,\"x\":578},{\"width\":27,\"y\":532,\"height\":27,\"name\":\"5\",\"x\":578},{\"frameWidth\":52,\"y\":451,\"frameHeight\":52,\"width\":50,\"frameX\":-1,\"height\":51,\"name\":\"2\",\"frameY\":-1,\"x\":578},{\"frameWidth\":392,\"y\":1,\"frameHeight\":339,\"width\":387,\"frameX\":-3,\"height\":332,\"name\":\"1\",\"frameY\":-4,\"x\":578},{\"frameWidth\":118,\"y\":334,\"frameHeight\":118,\"width\":116,\"frameX\":-1,\"height\":116,\"name\":\"7\",\"frameY\":-1,\"x\":578}]}",
+  "_texture": {
+    "__uuid__": "3f4db8d3-63f5-4414-a012-445b4edd5f56"
+  },
+  "texture": {
+    "__uuid__": "3f4db8d3-63f5-4414-a012-445b4edd5f56"
+  },
+  "_textureAtlasData": null
+}

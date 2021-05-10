@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_fh",
+    "texture": "422bfb63-034d-42c5-ba1a-82ac38e0822c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      69,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      69,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

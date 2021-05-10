@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qqlogo",
+    "texture": "701add58-8954-4142-b8e5-b0a18ce78a39",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      461,
+      268
+    ],
+    "offset": [
+      0,
+      2
+    ],
+    "originalSize": [
+      467,
+      272
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

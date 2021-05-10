@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "g.d",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "\ninterface Array<T> {\n    shuffle();\n}\n\n\n// interface String{\n//     startWith(str);\n//     endWith(str);\n// }\n"
+}

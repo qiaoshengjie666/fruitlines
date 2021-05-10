@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ad-exposure-icon",
+    "texture": "d3800ab9-65d0-4e3c-bbe9-85a710314035",
+    "atlas": "",
+    "rect": [
+      13,
+      25,
+      79,
+      59
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      105,
+      109
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

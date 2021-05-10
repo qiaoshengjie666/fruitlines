@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daojishi1",
+    "texture": "f2d04a23-f6c0-4d4b-a3b4-b91a07a4e288",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      258,
+      257
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      259,
+      257
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

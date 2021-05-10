@@ -1,0 +1,17 @@
+{
+    "appid": "23940347",
+    "compileType": "game",
+    "libVersion": "1.0.0",
+    "bundle": {
+        "exclude": [
+            "node_moudules"
+        ],
+        "entry": "game.js",
+        "compilers": [
+            {
+                "type": "babel"
+            }
+        ]
+    },
+    "projectname": "fruitlines"
+}

@@ -1,0 +1,20 @@
+{
+    "word":0,
+    "bannerId":{"baidu":{"adUnitId":"7433929","appSid":"ca550319"},"toutiao":{"adUnitId":"3o8m16pp3e54cqcd5t"},"QQ":{"adUnitId":"4ef215ca5af9c3b454e9d22a676f7992"},"WX":{"adUnitId":""}},
+    "videoId":{"baidu":{"adUnitId":"7476581","appSid":"ca550319"},"toutiao":{"adUnitId":"1gr8f7hvpon3mb2llf"},"QQ":{"adUnitId":"adunit-168ed0ed4d9f8fad"},"WX":{"adUnitId":""}},
+    "interstitialId":{"baidu":{},"toutiao":{"adUnitId":"15c24vd9ppqti8jgb3"},"QQ":{"adUnitId":"e93d7d4378e53c49b258b80960fb84c1"},"WX":{"adUnitId":""}},
+    "item":[{"bundle":"comItem","sprite":"item1","id":1,"name":"道具1"},
+        {"bundle":"comItem","sprite":"item2","id":2,"name":"道具2"},
+        {"bundle":"comItem","sprite":"item3","id":3,"name":"道具3"},
+        {"bundle":"comItem","sprite":"item4","id":4,"name":"道具4"}],     
+    "sign":{"OnOff":1,"type":3,"item":[{},{},{"itemId":3,"count":1}],"btn1":{"show":1,"video":1,"force":1,"name":"补签","icon":1}},
+    "revive":{"btn1":{"video":1,"force":1,"name":"立即复活","icon":1},"btn2":{"video":0,"force":1,"name":"放弃复活","icon":0,"delayTime":2},"countdown":10},
+    "result":{"win":{"btn1":{"video":1,"force":1,"name":"下一关","icon":1},"btn2":{"video":0,"force":1,"name":"重玩","icon":0},"title":"恭喜过关","content":"恭喜你赢了！"},
+            "fail":{"btn1":{"video":1,"force":1,"name":"再来一局","icon":1},"btn2":{"video":0,"force":1,"name":"下一关","icon":0},"title":"遗憾失败","content":"不好意思又输了！"}},
+    "lucky":{"luckyOnOff":[{"video":1,"force":1},{"video":1,"force":1}],"luckUnseal":{"show":1,"delay":0},"tollgate":[
+        {"level":1,"reward":{"itemId":3,"count":1000,"info":"完成第1关卡解封"}},
+        {"level":3,"reward":{"itemId":4,"count":1,"info":"完成第3关卡解封"}},
+        {"level":5,"reward":{"itemId":1,"count":3000,"info":"完成第5关卡解封"}},
+        {"level":10,"reward":{"itemId":1,"count":5000,"info":"完成第10关卡解封"}},
+        {"level":15,"reward":{"itemId":1,"count":6666,"info":"完成第15关卡解封"}}]}
+}

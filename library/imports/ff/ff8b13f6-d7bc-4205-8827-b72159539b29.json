@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "signBtn",
+    "texture": "9a21204e-563e-4cb6-b48f-f51768b0fdee",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      213,
+      76
+    ],
+    "offset": [
+      -0.5,
+      3
+    ],
+    "originalSize": [
+      220,
+      82
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

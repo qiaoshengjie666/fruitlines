@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shouji",
+    "texture": "1394c855-d2e4-41ce-890c-37ad886d17c9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      181,
+      308
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      181,
+      308
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

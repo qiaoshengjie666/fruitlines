@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sigintitile",
+    "texture": "dde378b6-1e77-42da-9675-755413217b2b",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      110,
+      94
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      112,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

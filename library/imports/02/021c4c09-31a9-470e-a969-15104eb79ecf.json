@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "android_leaderboards",
+    "texture": "1c47cb46-c023-4f69-a92a-733d2931bbd5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

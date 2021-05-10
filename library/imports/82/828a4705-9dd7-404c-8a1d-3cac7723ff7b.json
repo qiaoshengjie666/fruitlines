@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "reSign",
+    "texture": "c1faa5cd-0e60-4541-8ede-85debb15a22e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      220,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      220,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

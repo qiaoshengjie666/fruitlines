@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "inside—pointTop",
+    "texture": "f7cd923e-8b13-458f-b0b1-90b4685cec2c",
+    "atlas": "",
+    "rect": [
+      3,
+      1,
+      523,
+      124
+    ],
+    "offset": [
+      1.5,
+      0
+    ],
+    "originalSize": [
+      526,
+      126
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

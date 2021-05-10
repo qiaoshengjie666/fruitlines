@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btndk",
+    "texture": "e0bd73b3-194b-4ad1-bbb7-7c63969fa89a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      90,
+      166
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      166
+    ],
+    "capInsets": [
+      25,
+      25,
+      25,
+      25
+    ]
+  }
+}

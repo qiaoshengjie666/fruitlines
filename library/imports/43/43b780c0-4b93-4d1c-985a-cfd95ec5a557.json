@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiesuan_tex",
+    "texture": "3f4db8d3-63f5-4414-a012-445b4edd5f56",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      964,
+      570
+    ],
+    "offset": [
+      -7,
+      0
+    ],
+    "originalSize": [
+      980,
+      572
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "b50_yr",
+    "texture": "80facf4f-d58c-43ff-81b9-06c86cd190ce",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      90,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      90
+    ],
+    "capInsets": [
+      28,
+      28,
+      28,
+      28
+    ]
+  }
+}

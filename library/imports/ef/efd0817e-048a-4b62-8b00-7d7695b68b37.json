@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "screenShare",
+    "texture": "8f8ae465-d335-402b-9522-6a549502e616",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

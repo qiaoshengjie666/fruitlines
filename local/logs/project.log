@@ -1,0 +1,200 @@
+2021-04-30T06:28:12.447Z - normal: Load ~/.CocosCreator/settings.json
+2021-04-30T06:28:12.479Z - normal: Initializing Asset Database
+2021-04-30T06:28:12.482Z - normal: checking language setting...
+2021-04-30T06:28:12.482Z - normal: Language: zh
+2021-04-30T06:28:12.908Z - success: protocol editor-framework registered
+2021-04-30T06:28:12.908Z - success: protocol app registered
+2021-04-30T06:28:12.908Z - success: protocol theme registered
+2021-04-30T06:28:12.908Z - success: protocol packages registered
+2021-04-30T06:28:12.908Z - success: protocol uuid registerred
+2021-04-30T06:28:12.908Z - success: protocol db registerred
+2021-04-30T06:28:12.909Z - success: protocol thumbnail registerred
+2021-04-30T06:28:12.909Z - success: protocol unpack registerred
+2021-04-30T06:28:12.909Z - success: protocol disable-commonjs registerred
+2021-04-30T06:28:13.061Z - normal: connected!
+2021-04-30T06:28:13.062Z - normal: Check project D:\project\project\fruitlines
+2021-04-30T06:28:13.064Z - normal: Initializing project D:\project\project\fruitlines
+2021-04-30T06:28:13.146Z - success: adapters loaded
+2021-04-30T06:28:13.147Z - success: asset-db-debugger loaded
+2021-04-30T06:28:13.178Z - success: fb-audience-network loaded
+2021-04-30T06:28:13.191Z - success: fb-live-stream loaded
+2021-04-30T06:28:13.193Z - success: google-play-instant loaded
+2021-04-30T06:28:13.193Z - success: jsb-adapter loaded
+2021-04-30T06:28:13.195Z - success: package-manager loaded
+2021-04-30T06:28:13.195Z - success: runtime-adapters loaded
+2021-04-30T06:28:13.196Z - success: runtime-dev-tools loaded
+2021-04-30T06:28:13.197Z - success: ui-kit-preview-extra loaded
+2021-04-30T06:28:13.198Z - success: ui-kit-preview loaded
+2021-04-30T06:28:13.223Z - success: alipay-minigame loaded
+2021-04-30T06:28:13.252Z - success: assets loaded
+2021-04-30T06:28:13.253Z - success: baidugame-opendata loaded
+2021-04-30T06:28:13.254Z - success: baidugame loaded
+2021-04-30T06:28:13.256Z - success: builder loaded
+2021-04-30T06:28:13.257Z - success: bytedance-opendata loaded
+2021-04-30T06:28:13.258Z - success: bytedance loaded
+2021-04-30T06:28:13.259Z - success: channel-upload-tools loaded
+2021-04-30T06:28:13.261Z - success: cloud-function loaded
+2021-04-30T06:28:13.337Z - success: cocos-services loaded
+2021-04-30T06:28:13.339Z - success: console loaded
+2021-04-30T06:28:13.340Z - success: curve-editor loaded
+2021-04-30T06:28:13.346Z - success: fb-instant-games loaded
+2021-04-30T06:28:13.346Z - success: game-window loaded
+2021-04-30T06:28:13.347Z - success: google-instant-games loaded
+2021-04-30T06:28:13.348Z - success: hierarchy loaded
+2021-04-30T06:28:13.349Z - success: huawei-agc loaded
+2021-04-30T06:28:13.351Z - success: huawei-runtime loaded
+2021-04-30T06:28:13.352Z - success: inspector loaded
+2021-04-30T06:28:13.360Z - success: cpk-publish loaded
+2021-04-30T06:28:13.360Z - success: keystore loaded
+2021-04-30T06:28:13.367Z - success: link-sure-runtime loaded
+2021-04-30T06:28:13.372Z - success: node-library loaded
+2021-04-30T06:28:13.373Z - success: open-recent-items loaded
+2021-04-30T06:28:13.374Z - success: oppo-runtime loaded
+2021-04-30T06:28:13.375Z - success: package-asset loaded
+2021-04-30T06:28:13.375Z - success: preferences loaded
+2021-04-30T06:28:13.376Z - success: project-importer loaded
+2021-04-30T06:28:13.376Z - success: project-settings loaded
+2021-04-30T06:28:13.385Z - success: qtt-runtime loaded
+2021-04-30T06:28:13.389Z - success: scene loaded
+2021-04-30T06:28:13.389Z - success: simulator-debugger loaded
+2021-04-30T06:28:13.390Z - success: sprite-editor loaded
+2021-04-30T06:28:13.406Z - success: store loaded
+2021-04-30T06:28:13.407Z - success: timeline loaded
+2021-04-30T06:28:13.409Z - success: vivo-runtime loaded
+2021-04-30T06:28:13.410Z - success: wechatgame-opendata loaded
+2021-04-30T06:28:13.411Z - success: wechatgame loaded
+2021-04-30T06:28:13.413Z - success: xiaomi-runtime loaded
+2021-04-30T06:28:13.443Z - success: im-plugin loaded
+2021-04-30T06:28:13.589Z - success: ccc-obfuscated-code loaded
+2021-04-30T06:28:13.591Z - success: preview server running at http://localhost:7456
+2021-04-30T06:28:14.451Z - normal: Initializing Cocos2d
+2021-04-30T06:28:14.702Z - normal: Initializing engine extends
+2021-04-30T06:28:14.993Z - info: Cocos Service load base data!
+2021-04-30T06:28:18.680Z - normal: Loading packages
+2021-04-30T06:28:18.684Z - normal: Watching packages
+2021-04-30T06:28:18.714Z - normal: Run Application
+2021-04-30T06:28:41.706Z - normal: Start building with options : {
+  "actualPlatform": "bytedance",
+  "agreements": {
+    "20200904180716": false,
+    "20200904180755": false
+  },
+  "android": {
+    "REMOTE_SERVER_ROOT": "",
+    "packageName": "org.cocos2d.demo"
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.demo",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "D:\\project\\project\\fruitlines\\build",
+  "buildScriptsOnly": false,
+  "debug": false,
+  "dest": "D:\\project\\project\\fruitlines\\build\\bytedance",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "Canvas Renderer",
+    "3D",
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle",
+    "SafeArea"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "REMOTE_SERVER_ROOT": "",
+    "ios_enable_jit": true,
+    "packageName": "org.cocos2d.demo"
+  },
+  "mac": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "packageName": "org.cocos2d.demo",
+    "width": 1280
+  },
+  "mainCompressionType": "default",
+  "mainIsRemote": true,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.fruitlines",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "a10835ba-ff93-41b0-9d9e-af4a37fd50d5",
+    "5bb178c2-a122-4a32-b9bd-d2374342014d"
+  ],
+  "separateEngineMode": false,
+  "sourceMaps": false,
+  "startScene": "a10835ba-ff93-41b0-9d9e-af4a37fd50d5",
+  "template": "link",
+  "title": "fruitlines",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "",
+    "orientation": "portrait",
+    "subContext": "wx-open-data-project"
+  },
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "width": 1280
+  },
+  "xxteaKey": "10fad09e-e4a1-4a",
+  "zipCompressJs": true,
+  "project": "D:\\project\\project\\fruitlines",
+  "projectName": "fruitlines",
+  "debugBuildWorker": false
+}
+2021-04-30T06:28:41.707Z - normal: Building D:\project\project\fruitlines
+2021-04-30T06:28:41.707Z - normal: Destination D:\project\project\fruitlines\build\bytedance
+2021-04-30T06:28:41.751Z - normal: Delete D:/project/project/fruitlines/build/bytedance/**/*,!D:/project/project/fruitlines/build/bytedance/game.json,!D:/project/project/fruitlines/build/bytedance/project.config.json
+2021-04-30T06:28:42.648Z - normal: Compiling D:\project\project\fruitlines
+2021-04-30T06:28:45.705Z - normal: Start building assets
+2021-04-30T06:28:45.705Z - normal: Start spawn build-worker
+2021-04-30T06:28:46.217Z - normal: Finish spawn build-worker
+2021-04-30T06:28:46.217Z - normal: Start init build-worker
+2021-04-30T06:28:47.482Z - normal: Finish init build-worker
+2021-04-30T06:28:47.482Z - normal: Start build-assets in worker
+2021-04-30T06:28:48.412Z - warn: 原图 db://assets/Game/Textures/a/jiesuan_tex.png 已经被打包到自动图集 assets/Game/Textures/AutoAtlas.pac，但由于这张原图同时被 db://assets/Game/Textures/a/jiesuan_tex.json 直接使用，因此原图仍然会保留一份。
+2021-04-30T06:28:50.222Z - warn: AutoAtlas "D:\project\project\fruitlines\assets\Game\Textures\AutoAtlas.pac" is located in "db://assets/Game/Textures" directory, so its "Filter Unused Resources" parameter will be ignored.
+2021-04-30T06:28:53.060Z - normal: Finish build-assets in worker
+2021-04-30T06:28:53.072Z - normal: Finish building assets
+2021-04-30T06:28:53.125Z - normal: Start building plugin scripts
+2021-04-30T06:28:53.427Z - normal: Finish building plugin scripts
+2021-04-30T06:28:55.967Z - normal: Built bytedance successfully
+2021-04-30T06:35:05.423Z - info: shutdown preview server

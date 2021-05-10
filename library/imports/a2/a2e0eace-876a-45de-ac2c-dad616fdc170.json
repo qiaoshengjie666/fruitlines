@@ -1,0 +1,14 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "dajiang_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_atlasJson": "{\"SubTexture\":[{\"frameHeight\":405,\"y\":516,\"frameX\":-3,\"width\":407,\"frameY\":0,\"height\":403,\"name\":\"hbgx\",\"frameWidth\":412,\"x\":1},{\"width\":97,\"y\":516,\"height\":107,\"name\":\"zhuiguang\",\"x\":410},{\"frameHeight\":517,\"y\":1,\"frameX\":-1,\"width\":441,\"frameY\":-2,\"height\":513,\"name\":\"hongbao\",\"frameWidth\":446,\"x\":1}],\"width\":509,\"height\":921,\"name\":\"dajiang\",\"imagePath\":\"dajiang_tex.png\"}",
+  "_texture": {
+    "__uuid__": "100f56d4-a01f-4602-806d-dbe2d569ac74"
+  },
+  "texture": {
+    "__uuid__": "100f56d4-a01f-4602-806d-dbe2d569ac74"
+  },
+  "_textureAtlasData": null
+}

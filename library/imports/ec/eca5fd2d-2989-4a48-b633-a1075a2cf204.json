@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mt4",
+    "texture": "51aae419-9c31-490f-9f9f-177c6babceb3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      32,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

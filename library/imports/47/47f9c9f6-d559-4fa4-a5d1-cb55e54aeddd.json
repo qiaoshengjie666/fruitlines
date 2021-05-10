@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_ksyx",
+    "texture": "f7794b19-63f4-42f4-a49c-db2405803582",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      275,
+      103
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      275,
+      104
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

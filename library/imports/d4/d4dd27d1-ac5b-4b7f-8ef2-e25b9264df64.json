@@ -1,0 +1,515 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "comConfig",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "word": {
+      "baidu": 0,
+      "toutiao": 0,
+      "QQ": 0,
+      "WX": 0
+    },
+    "item": [
+      {
+        "bundle": "comItem",
+        "sprite": "item1",
+        "id": 1,
+        "name": "道具1"
+      },
+      {
+        "bundle": "comItem",
+        "sprite": "item2",
+        "id": 2,
+        "name": "道具2"
+      },
+      {
+        "bundle": "comItem",
+        "sprite": "item3",
+        "id": 3,
+        "name": "道具3"
+      },
+      {
+        "bundle": "comItem",
+        "sprite": "item4",
+        "id": 4,
+        "name": "道具4"
+      }
+    ],
+    "sign": {
+      "toutiao": {
+        "OnOff": 1,
+        "type": 3,
+        "item": [
+          {},
+          {},
+          {
+            "itemId": 3,
+            "count": 1
+          }
+        ],
+        "btn1": {
+          "show": 1,
+          "video": 1,
+          "force": 1,
+          "name": "补签",
+          "icon": 1
+        }
+      },
+      "baidu": {
+        "OnOff": 1,
+        "type": 3,
+        "item": [
+          {},
+          {},
+          {
+            "itemId": 3,
+            "count": 1
+          }
+        ],
+        "btn1": {
+          "show": 1,
+          "video": 1,
+          "force": 1,
+          "name": "补签",
+          "icon": 1
+        }
+      },
+      "QQ": {
+        "OnOff": 1,
+        "type": 3,
+        "item": [
+          {},
+          {},
+          {
+            "itemId": 3,
+            "count": 1
+          }
+        ],
+        "btn1": {
+          "show": 1,
+          "video": 1,
+          "force": 1,
+          "name": "补签",
+          "icon": 1
+        }
+      },
+      "WX": {
+        "OnOff": 1,
+        "type": 3,
+        "item": [
+          {},
+          {},
+          {
+            "itemId": 3,
+            "count": 1
+          }
+        ],
+        "btn1": {
+          "show": 1,
+          "video": 1,
+          "force": 1,
+          "name": "补签",
+          "icon": 1
+        }
+      },
+      "html5": {
+        "OnOff": 1,
+        "type": 3,
+        "item": [
+          {},
+          {},
+          {
+            "itemId": 3,
+            "count": 1
+          }
+        ],
+        "btn1": {
+          "show": 1,
+          "video": 1,
+          "force": 1,
+          "name": "补签",
+          "icon": 1
+        }
+      }
+    },
+    "revive": {
+      "toutiao": {
+        "btn1": {
+          "video": 1,
+          "force": 1,
+          "name": "立即复活",
+          "icon": 1
+        },
+        "btn2": {
+          "video": 0,
+          "force": 1,
+          "name": "放弃复活",
+          "icon": 0,
+          "delayTime": 2
+        },
+        "countdown": 10
+      },
+      "baidu": {
+        "btn1": {
+          "video": 1,
+          "force": 1,
+          "name": "立即复活",
+          "icon": 1
+        },
+        "btn2": {
+          "video": 0,
+          "force": 1,
+          "name": "放弃复活",
+          "icon": 0,
+          "delayTime": 2
+        },
+        "countdown": 10
+      },
+      "QQ": {
+        "btn1": {
+          "video": 1,
+          "force": 1,
+          "name": "立即复活",
+          "icon": 1
+        },
+        "btn2": {
+          "video": 0,
+          "force": 1,
+          "name": "放弃复活",
+          "icon": 0,
+          "delayTime": 2
+        },
+        "countdown": 10
+      },
+      "WX": {
+        "btn1": {
+          "video": 1,
+          "force": 1,
+          "name": "立即复活",
+          "icon": 1
+        },
+        "btn2": {
+          "video": 0,
+          "force": 1,
+          "name": "放弃复活",
+          "icon": 0,
+          "delayTime": 2
+        },
+        "countdown": 10
+      },
+      "html5": {
+        "btn1": {
+          "video": 1,
+          "force": 1,
+          "name": "立即复活",
+          "icon": 1
+        },
+        "btn2": {
+          "video": 0,
+          "force": 1,
+          "name": "放弃复活",
+          "icon": 0,
+          "delayTime": 2
+        },
+        "countdown": 10
+      }
+    },
+    "result": {
+      "toutiao": {
+        "win": {
+          "btn1": {
+            "video": 1,
+            "force": 1,
+            "name": "下一关",
+            "icon": 1
+          },
+          "btn2": {
+            "video": 0,
+            "force": 1,
+            "name": "重玩",
+            "icon": 0
+          },
+          "title": "恭喜过关",
+          "content": "恭喜你赢了！"
+        },
+        "fail": {
+          "btn1": {
+            "video": 1,
+            "force": 1,
+            "name": "再来一局",
+            "icon": 1
+          },
+          "btn2": {
+            "video": 0,
+            "force": 1,
+            "name": "下一关",
+            "icon": 0
+          },
+          "title": "遗憾失败",
+          "content": "不好意思又输了！"
+        }
+      },
+      "baidu": {
+        "win": {
+          "btn1": {
+            "video": 1,
+            "force": 1,
+            "name": "下一关",
+            "icon": 1
+          },
+          "btn2": {
+            "video": 0,
+            "force": 1,
+            "name": "重玩",
+            "icon": 0
+          },
+          "title": "恭喜过关",
+          "content": "恭喜你赢了！"
+        },
+        "fail": {
+          "btn1": {
+            "video": 1,
+            "force": 1,
+            "name": "再来一局",
+            "icon": 1
+          },
+          "btn2": {
+            "video": 0,
+            "force": 1,
+            "name": "下一关",
+            "icon": 0
+          },
+          "title": "遗憾失败",
+          "content": "不好意思又输了！"
+        }
+      },
+      "QQ": {
+        "win": {
+          "btn1": {
+            "video": 1,
+            "force": 1,
+            "name": "下一关",
+            "icon": 1
+          },
+          "btn2": {
+            "video": 0,
+            "force": 1,
+            "name": "重玩",
+            "icon": 0
+          },
+          "title": "恭喜过关",
+          "content": "恭喜你赢了！"
+        },
+        "fail": {
+          "btn1": {
+            "video": 1,
+            "force": 1,
+            "name": "再来一局",
+            "icon": 1
+          },
+          "btn2": {
+            "video": 0,
+            "force": 1,
+            "name": "下一关",
+            "icon": 0
+          },
+          "title": "遗憾失败",
+          "content": "不好意思又输了！"
+        }
+      },
+      "WX": {
+        "win": {
+          "btn1": {
+            "video": 1,
+            "force": 1,
+            "name": "下一关",
+            "icon": 1
+          },
+          "btn2": {
+            "video": 0,
+            "force": 1,
+            "name": "重玩",
+            "icon": 0
+          },
+          "title": "恭喜过关",
+          "content": "恭喜你赢了！"
+        },
+        "fail": {
+          "btn1": {
+            "video": 1,
+            "force": 1,
+            "name": "再来一局",
+            "icon": 1
+          },
+          "btn2": {
+            "video": 0,
+            "force": 1,
+            "name": "下一关",
+            "icon": 0
+          },
+          "title": "遗憾失败",
+          "content": "不好意思又输了！"
+        }
+      },
+      "html5": {
+        "win": {
+          "btn1": {
+            "video": 1,
+            "force": 1,
+            "name": "下一关",
+            "icon": 1
+          },
+          "btn2": {
+            "video": 0,
+            "force": 1,
+            "name": "重玩",
+            "icon": 0
+          },
+          "title": "恭喜过关",
+          "content": "恭喜你赢了！"
+        },
+        "fail": {
+          "btn1": {
+            "video": 1,
+            "force": 1,
+            "name": "再来一局",
+            "icon": 1
+          },
+          "btn2": {
+            "video": 0,
+            "force": 1,
+            "name": "下一关",
+            "icon": 0
+          },
+          "title": "遗憾失败",
+          "content": "不好意思又输了！"
+        }
+      }
+    },
+    "lucky": {
+      "toutiao": {
+        "luckyOnOff": [
+          {
+            "video": 1,
+            "force": 1
+          },
+          {
+            "video": 1,
+            "force": 1
+          }
+        ],
+        "luckUnseal": {
+          "show": 1,
+          "delay": 0
+        }
+      },
+      "baidu": {
+        "luckyOnOff": [
+          {
+            "video": 1,
+            "force": 1
+          },
+          {
+            "video": 1,
+            "force": 1
+          }
+        ],
+        "luckUnseal": {
+          "show": 1,
+          "delay": 0
+        }
+      },
+      "QQ": {
+        "luckyOnOff": [
+          {
+            "video": 1,
+            "force": 1
+          },
+          {
+            "video": 1,
+            "force": 1
+          }
+        ],
+        "luckUnseal": {
+          "show": 1,
+          "delay": 0
+        }
+      },
+      "WX": {
+        "luckyOnOff": [
+          {
+            "video": 1,
+            "force": 1
+          },
+          {
+            "video": 1,
+            "force": 1
+          }
+        ],
+        "luckUnseal": {
+          "show": 1,
+          "delay": 0
+        }
+      },
+      "html5": {
+        "luckyOnOff": [
+          {
+            "video": 1,
+            "force": 1
+          },
+          {
+            "video": 1,
+            "force": 1
+          }
+        ],
+        "luckUnseal": {
+          "show": 1,
+          "delay": 0
+        }
+      }
+    },
+    "luckytollgate": [
+      {
+        "level": 1,
+        "reward": {
+          "itemId": 3,
+          "count": 1000,
+          "info": "完成第1关卡解封"
+        }
+      },
+      {
+        "level": 3,
+        "reward": {
+          "itemId": 4,
+          "count": 1,
+          "info": "完成第3关卡解封"
+        }
+      },
+      {
+        "level": 5,
+        "reward": {
+          "itemId": 1,
+          "count": 3000,
+          "info": "完成第5关卡解封"
+        }
+      },
+      {
+        "level": 10,
+        "reward": {
+          "itemId": 1,
+          "count": 5000,
+          "info": "完成第10关卡解封"
+        }
+      },
+      {
+        "level": 15,
+        "reward": {
+          "itemId": 1,
+          "count": 6666,
+          "info": "完成第15关卡解封"
+        }
+      }
+    ]
+  }
+}
